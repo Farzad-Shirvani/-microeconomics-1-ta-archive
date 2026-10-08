@@ -1,32 +1,34 @@
 # Assignment 5
 
 ## Topic
-To be added
+Production
 
 ## Overview
-This assignment is designed to reinforce the core concepts covered in this part of the **Principles of Microeconomics I** course.
+This assignment covers the theory of the firm on the supply side, focusing on production technologies, total/marginal/average product of labor, isoquants, the Marginal Rate of Technical Substitution (MRTS), returns to scale, and standard production functions.
 
 ## Files
 
-- `questions.pdf` — Student-facing assignment questions.
-- `questions-and-solutions.pdf` — Assignment questions with detailed solutions and analytical steps.
+- [`HW5_Ch6_Q.pdf`](./HW5_Ch6_Q.pdf) — Student-facing core problem set.
+- [`HW5_Ch6_Extra.pdf`](./HW5_Ch6_Extra.pdf) — Bonus/advanced problem set on advanced production functions.
+- [`HW5_Ch6_A.pdf`](./HW5_Ch6_A.pdf) — Comprehensive solutions and mathematical derivations.
 
 ## Learning Objectives
 
 By completing this assignment, students should be able to:
 
-- Apply the relevant theoretical concepts to analytical problems.
-- Interpret economic relationships using appropriate graphs, equations, and reasoning.
-- Develop a clear and structured approach to solving introductory microeconomic problems.
+- Distinguish short-run production (with fixed inputs) from long-run production (where all inputs are variable).
+- Calculate the Marginal Product ($MP_L$, $MP_K$) and Average Product ($AP_L$) and understand diminishing marginal returns.
+- Construct and interpret isoquants and compute the Marginal Rate of Technical Substitution ($MRTS_{L,K}$).
+- Determine whether a production function exhibits increasing, constant, or decreasing returns to scale.
+- Analyze specific functional forms (Cobb-Douglas, Leontief fixed-proportions, linear production functions).
 
 ## Instructions for Students
 
-1. Read each question carefully and state any necessary assumptions.
-2. Show all relevant calculations, diagrams, and reasoning.
-3. Use the solution version only after attempting the questions independently.
+1. Clearly state the mathematical definitions used for returns to scale ($f(tK, tL)$ tests).
+2. Draw isoquant maps with appropriate slope and curvature.
+3. Complete the problem set independently before opening the solutions.
 
 ## Notes for Teaching Assistants
 
-- Verify that the assignment matches the course syllabus and the instructor’s emphasis.
-- Review the clarity, difficulty level, and expected completion time before distribution.
-- Update the solutions if course conventions, notation, or grading criteria change.
+- Students often confuse the *law of diminishing marginal returns* (short run) with *returns to scale* (long run); emphasize this distinction.
+- Ensure algebraic checks for returns to scale follow rigorous scalar testing rather than intuitive guessing.
