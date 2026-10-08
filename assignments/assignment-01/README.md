@@ -1,32 +1,33 @@
 # Assignment 1
 
 ## Topic
-To be added
+Preliminaries (Foundations of Microeconomic Analysis)
 
 ## Overview
-This assignment is designed to reinforce the core concepts covered in this part of the **Principles of Microeconomics I** course.
+This assignment covers the preliminary concepts of microeconomics, focusing on the scope of microeconomic analysis, positive versus normative economics, the role of models and assumptions, and real versus nominal economic variables (e.g., inflation adjustment).
 
 ## Files
 
-- `questions.pdf` — Student-facing assignment questions.
-- `questions-and-solutions.pdf` — Assignment questions with detailed solutions and analytical steps.
+- [`HW1_Ch1_Q.pdf`](./HW1_Ch1_Q.pdf) — Student-facing problem set.
+- [`HW1_Ch1_A.pdf`](./HW1_Ch1_A.pdf) — Complete questions with detailed solutions and step-by-step reasoning.
 
 ## Learning Objectives
 
 By completing this assignment, students should be able to:
 
-- Apply the relevant theoretical concepts to analytical problems.
-- Interpret economic relationships using appropriate graphs, equations, and reasoning.
-- Develop a clear and structured approach to solving introductory microeconomic problems.
+- Distinguish clearly between positive and normative statements in economic arguments.
+- Understand the definition, boundaries, and extent of a market.
+- Convert nominal prices and values into real (constant-dollar) terms using price indices (CPI/GDP deflator).
+- Critically evaluate basic microeconomic models, their trade-offs, and behavioral assumptions.
 
 ## Instructions for Students
 
-1. Read each question carefully and state any necessary assumptions.
-2. Show all relevant calculations, diagrams, and reasoning.
-3. Use the solution version only after attempting the questions independently.
+1. Read each question carefully and state all necessary behavioral and technical assumptions.
+2. Show all step-by-step calculations, index formulas, and economic reasoning clearly.
+3. Attempt each problem independently before consulting the solution key.
 
 ## Notes for Teaching Assistants
 
-- Verify that the assignment matches the course syllabus and the instructor’s emphasis.
-- Review the clarity, difficulty level, and expected completion time before distribution.
-- Update the solutions if course conventions, notation, or grading criteria change.
+- Ensure students understand the practical difference between nominal and real price calculations, as this is a common point of confusion.
+- Emphasize clear writing on short-answer/conceptual questions (especially regarding positive vs. normative analysis).
+- Verify consistency with the textbook edition used by the instructor (specifically chapter end-of-problem notation).
