@@ -1,32 +1,33 @@
 # Assignment 3
 
 ## Topic
-To be added
+Consumer Behavior
 
 ## Overview
-This assignment is designed to reinforce the core concepts covered in this part of the **Principles of Microeconomics I** course.
+This assignment covers the core analytical framework of consumer theory, including preferences, utility functions, indifference curve analysis, the marginal rate of substitution (MRS), budget constraints, and constrained utility maximization.
 
 ## Files
 
-- `questions.pdf` — Student-facing assignment questions.
-- `questions-and-solutions.pdf` — Assignment questions with detailed solutions and analytical steps.
+- [`HW3_Ch3_Q.pdf`](./HW3_Ch3_Q.pdf) — Student-facing problem set.
+- [`HW3_Ch3_A.pdf`](./HW3_Ch3_A.pdf) — Full problem set with detailed analytical solutions and derivations.
 
 ## Learning Objectives
 
 By completing this assignment, students should be able to:
 
-- Apply the relevant theoretical concepts to analytical problems.
-- Interpret economic relationships using appropriate graphs, equations, and reasoning.
-- Develop a clear and structured approach to solving introductory microeconomic problems.
+- Model consumer preferences using indifference curves and identify key axioms (completeness, transitivity, convexity).
+- Formulate and manipulate standard utility functions (Cobb-Douglas, perfect substitutes, perfect complements, quasi-linear).
+- Calculate the Marginal Rate of Substitution ($MRS_{X,Y}$) and understand its diminishing nature.
+- Derive optimal consumption bundles using the tangency condition ($MRS = P_X/P_Y$) and the Lagrangian multiplier method.
+- Identify and solve for corner solutions when standard interior tangency conditions do not apply.
 
 ## Instructions for Students
 
-1. Read each question carefully and state any necessary assumptions.
-2. Show all relevant calculations, diagrams, and reasoning.
-3. Use the solution version only after attempting the questions independently.
+1. Show all first-order conditions and algebraic steps clearly.
+2. Accurately draw budget lines and indifference curves, indicating tangency and corner solution points.
+3. Attempt all derivations independently before reviewing the solution file.
 
 ## Notes for Teaching Assistants
 
-- Verify that the assignment matches the course syllabus and the instructor’s emphasis.
-- Review the clarity, difficulty level, and expected completion time before distribution.
-- Update the solutions if course conventions, notation, or grading criteria change.
+- Corner solutions (e.g., with perfect substitutes or linear indifference curves) are common stumbling blocks; ensure students check boundary conditions.
+- Standardize expectations for Lagrangian steps versus direct MRS substitution depending on course conventions.
