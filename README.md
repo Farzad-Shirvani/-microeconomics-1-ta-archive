@@ -19,18 +19,18 @@ The TA team consisted of three teaching assistants, each leading a core pedagogi
 * **Mahya AliAkbari** — *Head TA & Recitation Sessions Lead*
   * Held weekly review lectures supplementing the professor's main lectures.
   * Prepared recitation slides reinforcing core microeconomic intuition and theoretical applications.
-  * [LinkedIn Profile](https://www.linkedin.com/in/mahya-aliakbari-208693387/) | [Email](mailto:mahya.aliakbari1030@gmail.com)
+  * [LinkedIn Profile](https://www.linkedin.com/in/mahya-aliakbari-208693387/) | `mahya.aliakbari1030@gmail.com`
 
 * **Parsa Vali** — *Mathematical Foundations Workshop Lead*
   * Designed and conducted specialized math workshops for economics students.
   * Covered critical mathematical prerequisites, including multivariable calculus, optimization, Lagrangian multiplier techniques, and homogeneous functions.
-  * [LinkedIn Profile](https://www.linkedin.com/in/parsa-vali/) | [Email](mailto:Parsavaliuni@gmail.com)
+  * [LinkedIn Profile](https://www.linkedin.com/in/parsa-vali/) | `Parsavaliuni@gmail.com`
 
 ---
 
 ## 📚 Course Overview & Textbook
 
-* **Instructor:** Prof. Abdolrasoul Ghasemi ([LinkedIn Profile](https://www.linkedin.com/in/abdolrasoul-ghasemi/))
+* **Instructor:** Prof. Abdolrasoul Ghasemi ([LinkedIn Profile](https://www.linkedin.com/in/a-ghasemi-5a666047/))
 * **Term:** Spring 2026 (1404–1405 Academic Year)
 * **Primary Textbook:** *Microeconomics* by Robert S. Pindyck & Daniel L. Rubinfeld (9th Edition)
 * **Supplementary References:** Varian (*Intermediate Microeconomics*), Nicholson & Snyder (*Microeconomic Theory*)
