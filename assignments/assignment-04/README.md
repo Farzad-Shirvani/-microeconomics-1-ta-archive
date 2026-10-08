@@ -1,32 +1,34 @@
 # Assignment 4
 
 ## Topic
-To be added
+Individual and Market Demand
 
 ## Overview
-This assignment is designed to reinforce the core concepts covered in this part of the **Principles of Microeconomics I** course.
+This assignment examines how individual demand curves are derived from consumer utility optimization, the aggregation to market demand, income and substitution effects (Hicksian and Slutsky decompositions), consumer surplus, and network externalities.
 
 ## Files
 
-- `questions.pdf` — Student-facing assignment questions.
-- `questions-and-solutions.pdf` — Assignment questions with detailed solutions and analytical steps.
+- [`HW4_Ch4_Q.pdf`](./HW4_Ch4_Q.pdf) — Student-facing core problem set.
+- [`HW4_Ch4_Extra.pdf`](./HW4_Ch4_Extra.pdf) — Bonus/advanced problem set on demand extensions.
+- [`HW4_Ch4_A.pdf`](./HW4_Ch4_A.pdf) — Comprehensive solutions for all regular and bonus questions.
 
 ## Learning Objectives
 
 By completing this assignment, students should be able to:
 
-- Apply the relevant theoretical concepts to analytical problems.
-- Interpret economic relationships using appropriate graphs, equations, and reasoning.
-- Develop a clear and structured approach to solving introductory microeconomic problems.
+- Derive individual demand curves and price-consumption / income-consumption paths (Engel curves).
+- Decompose price changes into substitution and income effects for normal, inferior, and Giffen goods.
+- Horizontally aggregate individual consumer demands into total market demand.
+- Calculate and interpret consumer surplus algebraically and graphically.
+- Analyze the impact of network externalities (bandwagon and snob effects) on market demand elasticity.
 
 ## Instructions for Students
 
-1. Read each question carefully and state any necessary assumptions.
-2. Show all relevant calculations, diagrams, and reasoning.
-3. Use the solution version only after attempting the questions independently.
+1. Clearly sketch the decomposition diagrams (initial bundle, decomposition bundle, final bundle).
+2. Clearly distinguish between normal, inferior, and Giffen behavior in your written responses.
+3. Bonus problems are intended to deepen theoretical understanding and are highly recommended.
 
 ## Notes for Teaching Assistants
 
-- Verify that the assignment matches the course syllabus and the instructor’s emphasis.
-- Review the clarity, difficulty level, and expected completion time before distribution.
-- Update the solutions if course conventions, notation, or grading criteria change.
+- Make sure students understand the conceptual rotation/shift of the budget line in Slutsky vs. Hicksian decompositions.
+- Verify that students perform horizontal (quantity-wise) summation correctly when combining heterogeneous individual demand functions.
