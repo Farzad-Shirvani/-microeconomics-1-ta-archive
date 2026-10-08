@@ -10,7 +10,7 @@ This repository houses the complete teaching materials developed collaboratively
 
 The TA team consisted of three teaching assistants, each leading a core pedagogical pillar of the course:
 
-* **Amin Shirvani** — *Problem Set Design & Solutions Author*
+* **Farzad Shirvani** — *Problem Set Design & Solutions Author*
   * Responsible for curating, translating, and designing weekly assignment problem sets.
   * Adapted foundational problems from Pindyck & Rubinfeld while synthesizing advanced questions from supplementary microeconomic sources to match lecture pace and difficulty.
   * Authored comprehensive, step-by-step Persian solution manuals with explicit economic and mathematical derivations.
