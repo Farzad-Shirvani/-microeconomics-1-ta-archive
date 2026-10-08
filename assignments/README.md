@@ -13,7 +13,7 @@ Each assignment is provided in two versions:
 |:---:|---|---|---|
 | 1 | Preliminaries | [Questions](./assignment-01/HW1_Ch1_Q.pdf) | [Solutions](./assignment-01/HW1_Ch1_A.pdf) |
 | 2 | The basics of supply and demand | [Questions](./assignment-02/HW2_Ch2_Q.pdf) | [Solutions](./assignment-02/HW2_Ch2_A.pdf) |
-| 3 | To be added | — | — |
+| 3 | Consumer behavior | [Questions](./assignment-03/HW3_Ch3_Q.pdf) | [Solutions](./assignment-03/HW3_Ch3_A.pdf) |
 | 4 | To be added | — | — |
 | 5 | To be added | — | — |
 | 6 | To be added | — | — |
