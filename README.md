@@ -14,7 +14,7 @@ The TA team consisted of three teaching assistants, each leading a core pedagogi
   * Responsible for curating, translating, and designing weekly assignment problem sets.
   * Adapted foundational problems from Pindyck & Rubinfeld while synthesizing advanced questions from supplementary microeconomic sources to match lecture pace and difficulty.
   * Authored comprehensive, step-by-step Persian solution manuals with explicit economic and mathematical derivations.
-  * [LinkedIn Profile]((https://www.linkedin.com/in/farzad-shirvani-8ab8152b6/?isSelfProfile=true)) | [GitHub](https://github.com/Farzad-Shirvani)
+  * [LinkedIn Profile](https://www.linkedin.com/in/farzad-shirvani-8ab8152b6/?isSelfProfile=true) | [GitHub](https://github.com/Farzad-Shirvani)
 
 * **[Mahya AilAkbari]** — *Head TA & Recitation Sessions Lead*
   * Held weekly review lectures supplementing the professor's main lectures.
