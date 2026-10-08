@@ -15,7 +15,7 @@ Each assignment is provided in two versions:
 | 2 | The basics of supply and demand | [Questions](./assignment-02/HW2_Ch2_Q.pdf) | [Solutions](./assignment-02/HW2_Ch2_A.pdf) |
 | 3 | Consumer behavior | [Questions](./assignment-03/HW3_Ch3_Q.pdf) | [Solutions](./assignment-03/HW3_Ch3_A.pdf) |
 | 4 | Individual and market demand | [Questions](./assignment-04/HW4_Ch4_Q.pdf) <br> [Extra Questions](./assignment-04/HW4_Ch4_Extra.pdf) | [Solutions](./assignment-04/HW4_Ch4_A.pdf) |
-| 5 | To be added | — | — |
+| 5 | Production | [Questions](./assignment-05/HW5_Ch6_Q.pdf) <br> [Extra Questions](./assignment-05/HW5_Ch6_Extra.pdf) | [Solutions](./assignment-05/HW5_Ch6_A.pdf) |
 | 6 | To be added | — | — |
 
 ## How to Use These Materials
