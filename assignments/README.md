@@ -11,7 +11,7 @@ Each assignment is provided in two versions:
 
 | No. | Topic | Questions | Questions and Solutions |
 |:---:|---|---|---|
-| 1 | To be added | — | — |
+| 1 | Preliminaries | [Questions](./assignment-01/HW1_Ch1_Q.pdf) | [Solutions](./assignment-01/HW1_Ch1_A.pdf) |
 | 2 | To be added | — | — |
 | 3 | To be added | — | — |
 | 4 | To be added | — | — |
