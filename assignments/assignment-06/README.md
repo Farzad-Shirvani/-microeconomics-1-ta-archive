@@ -1,32 +1,34 @@
 # Assignment 6
 
 ## Topic
-To be added
+The Cost of Production
 
 ## Overview
-This assignment is designed to reinforce the core concepts covered in this part of the **Principles of Microeconomics I** course.
+This assignment bridges production theory with cost minimization and the cost structure of the firm. It examines short-run cost curves (FC, VC, TC, AFC, AVC, ATC, MC), long-run cost curves, isocost lines, cost-minimizing input choices, and economies of scale.
 
 ## Files
 
-- `questions.pdf` — Student-facing assignment questions.
-- `questions-and-solutions.pdf` — Assignment questions with detailed solutions and analytical steps.
+- [`HW6_Ch7_Q.pdf`](./HW6_Ch7_Q.pdf) — Student-facing core problem set.
+- [`HW6_Ch7_Extra.pdf`](./HW6_Ch7_Extra.pdf) — Bonus/advanced problem set on long-run cost optimization.
+- [`HW6_Ch7_A.pdf`](./HW6_Ch7_A.pdf) — Complete solutions and detailed step-by-step cost derivations.
 
 ## Learning Objectives
 
 By completing this assignment, students should be able to:
 
-- Apply the relevant theoretical concepts to analytical problems.
-- Interpret economic relationships using appropriate graphs, equations, and reasoning.
-- Develop a clear and structured approach to solving introductory microeconomic problems.
+- Distinguish between economic costs (including opportunity costs) and accounting costs, as well as sunk costs.
+- Derive total, variable, fixed, average, and marginal cost curves from underlying production functions.
+- Formulate the cost-minimization problem using isocost lines and the tangency condition ($MRTS = w/r$).
+- Derive long-run expansion paths and long-run total and average cost curves.
+- Analyze economies of scale, diseconomies of scale, and economies of scope.
 
 ## Instructions for Students
 
-1. Read each question carefully and state any necessary assumptions.
-2. Show all relevant calculations, diagrams, and reasoning.
-3. Use the solution version only after attempting the questions independently.
+1. Show all derivations connecting cost functions back to the production function parameters.
+2. Label all intersecting cost curves precisely (especially where $MC$ intersects $ATC$ and $AVC$ at their minimums).
+3. Use the solutions to audit your algebraic derivation of cost functions.
 
 ## Notes for Teaching Assistants
 
-- Verify that the assignment matches the course syllabus and the instructor’s emphasis.
-- Review the clarity, difficulty level, and expected completion time before distribution.
-- Update the solutions if course conventions, notation, or grading criteria change.
+- Verify that students understand why the Marginal Cost curve intersects the Average Total Cost and Average Variable Cost curves at their minimum points.
+- Ensure that students clearly grasp the role of input prices ($w$ and $r$) in determining the slope of isocost lines.
