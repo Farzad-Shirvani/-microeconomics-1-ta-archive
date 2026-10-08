@@ -1,32 +1,34 @@
 # Assignment 2
 
 ## Topic
-To be added
+The Basics of Supply and Demand
 
 ## Overview
-This assignment is designed to reinforce the core concepts covered in this part of the **Principles of Microeconomics I** course.
+This assignment explores market equilibrium, the price mechanism, and comparative statics. It focuses on shifts versus movements along curves, market-clearing conditions, price controls, and the calculation of price, income, and cross-price elasticities.
 
 ## Files
 
-- `questions.pdf` — Student-facing assignment questions.
-- `questions-and-solutions.pdf` — Assignment questions with detailed solutions and analytical steps.
+- [`HW2_Ch2_Q.pdf`](./HW2_Ch2_Q.pdf) — Student-facing problem set.
+- [`HW2_Ch2_A.pdf`](./HW2_Ch2_A.pdf) — Complete questions with detailed analytical and algebraic solutions.
 
 ## Learning Objectives
 
 By completing this assignment, students should be able to:
 
-- Apply the relevant theoretical concepts to analytical problems.
-- Interpret economic relationships using appropriate graphs, equations, and reasoning.
-- Develop a clear and structured approach to solving introductory microeconomic problems.
+- Distinguish between changes in quantity demanded/supplied and shifts in the demand/supply curves.
+- Solve algebraically for market-clearing price and quantity under linear and nonlinear specifications.
+- Calculate and interpret point, arc, income, and cross-price elasticities of demand and supply.
+- Analyze the short-run versus long-run adjustments to demand and supply shocks.
+- Evaluate the quantitative effects of government interventions (price floors, price ceilings, and shortages).
 
 ## Instructions for Students
 
-1. Read each question carefully and state any necessary assumptions.
-2. Show all relevant calculations, diagrams, and reasoning.
-3. Use the solution version only after attempting the questions independently.
+1. Carefully label all diagrams (axes, intercepts, shifts, and equilibrium points).
+2. Show all algebraic derivations and explicitly state units for elasticity values.
+3. Review your answers against the provided solutions only after completing your own work.
 
 ## Notes for Teaching Assistants
 
-- Verify that the assignment matches the course syllabus and the instructor’s emphasis.
-- Review the clarity, difficulty level, and expected completion time before distribution.
-- Update the solutions if course conventions, notation, or grading criteria change.
+- Pay special attention to sign conventions in cross-price and income elasticity interpretations.
+- Encourage students to clearly distinguish between point elasticity and arc elasticity formulas.
+- Check that graphical shifts correspond accurately to the algebraic solutions.
