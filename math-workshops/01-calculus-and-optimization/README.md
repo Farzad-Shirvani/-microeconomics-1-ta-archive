@@ -7,8 +7,8 @@ This workshop covers differentiation of common functions, partial derivatives, t
 ## Files and Recordings
 
 - [Math_Workshop_1_Lecture.pdf](./Math_Workshop_1_Lecture.pdf) — Workshop materials.
-- [Workshop 1 — Part 1](https://my.files.ir/drive/folders/MTAyMTM2NHxwYQ) — Replace `VIDEO_URL` with the cloud link for the first recording.
-- [Workshop 1 — Part 2](https://my.files.ir/drive/folders/MTAyMTM2NHxwYQ) — Replace `VIDEO_URL` with the cloud link for the second recording.
+- [Workshop 1 — Part 1](https://my.files.ir/drive/s/qJk071lYtDJIdcnqEMTe9YZHnAjd1h)
+- [Workshop 1 — Part 2](https://my.files.ir/drive/s/aJMOQpVqlieTtKdTIEkU3Gz42VrowC)
 
 ## Learning Objectives
 
