@@ -2,37 +2,40 @@
 
 Welcome to the **Math Workshops** section of the Principles of Microeconomics I archive.
 
-## 👤 Module Lead & Instructor
-* **Designed & Presented by:** [Parsa Vali](https://github.com/parsavali) — *Teaching Assistant (Math Foundations)*
+## Module Lead
 
----
+- **Designed and presented by:** Parsa Vali — Math Workshops
 
-## 📌 Overview & Scope
-Microeconomics relies heavily on mathematical tools for optimization, comparative statics, and formal modeling. These workshops were designed to bridge the gap between pure calculus and economic applications, providing students with the essential mathematical toolset needed throughout the course.
+## Overview
 
-Each module includes comprehensive lecture slides, video recordings of the live presentation sessions, and detailed practice problems with worked-out solutions.
+These workshops review the mathematical tools used in microeconomics, with an emphasis on differentiation and constrained optimization. The materials include workshop PDFs, video recordings, a comprehensive practice set, and worked solutions.
 
----
+## Repository Structure
 
-## 📂 Repository Structure
-
-| Workshop Module | Topic & Focus | Materials & Content |
+| Directory | Topics | Materials |
 | :--- | :--- | :--- |
-| **[01-calculus-and-optimization](./01-calculus-and-optimization/)** | Univariate & Multivariate Differentiation, Partial Derivatives, Unconstrained Optimization (FOC & SOC), Substitution Method in Constrained Optimization. | Lecture Slides + 2 Video Recordings |
-| **[02-lagrangian-optimization](./02-lagrangian-optimization/)** | The Method of Lagrange Multipliers, Economic Interpretation of $\lambda$, Applications in Consumer Utility Maximization & Cost Minimization. | Lecture Slides + 2 Video Recordings |
-| **[workshops-practice](./workshops-practice/)** | Comprehensive Practice Problem Set, Step-by-Step Solution Manual, and Walkthrough Video. | Problem Set + Solutions + Video |
+| [01-calculus-and-optimization](./01-calculus-and-optimization/) | Differentiation, partial derivatives, maximum and minimum conditions, and the substitution method for constrained optimization. | Workshop PDF and two video recordings |
+| [02-lagrangian-optimization](./02-lagrangian-optimization/) | The Lagrange method and its applications to consumer and producer optimization. | Workshop PDF and two video recordings |
+| [workshops-practice](./workshops-practice/) | Exercises covering the topics in Workshops 1 and 2, written solutions, and a video walkthrough. | Exercise PDF, solution PDF, and video walkthrough |
 
----
+## Learning Objectives
 
-## 🎯 Overall Learning Objectives
-By completing these workshops, students will be able to:
-1. Compute partial derivatives and construct total differentials for multivariate economic functions.
-2. Apply First-Order Conditions (FOC) and Second-Order Conditions (SOC) to identify local extrema.
-3. Formulate and solve constrained optimization problems using both the substitution method and Lagrange multipliers.
-4. Interpret the Lagrange multiplier ($\lambda$) as the marginal value / shadow price of a constraint.
+By completing these workshops, students should be able to:
 
----
+1. Differentiate common functions and calculate partial derivatives.
+2. Apply the main first- and second-order conditions for identifying maxima and minima.
+3. Solve constrained optimization problems using the substitution method.
+4. Set up and solve optimization problems using the Lagrange method.
+5. Apply constrained optimization methods to consumer and producer problems.
 
-## 💡 Notes for Students & TAs
-- **Prerequisites:** Basic knowledge of single-variable calculus (derivatives and intuition of slopes).
-- **Video Recordings:** Video files (`.mp4`) can be viewed directly on GitHub or downloaded for offline study.
+## Instructions for Students
+
+- Review the workshop PDF before or while watching its corresponding recordings.
+- Use the practice set to test your understanding of the methods.
+- Consult the written solutions after attempting the problems independently.
+- Replace each `VIDEO_URL` placeholder in the workshop README files with the corresponding shareable cloud link.
+
+## Notes for Teaching Assistants
+
+- The video recordings are hosted externally and are linked from the relevant workshop README files.
+- Check that cloud links are accessible to students before sharing the repository.
